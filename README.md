@@ -165,5 +165,3 @@ LinkedIn: https://www.linkedin.com/in/ed-underberg/
 Email: edunderberg@gmail.com
 
 ---
-
-*This project was developed as part of an ongoing professional portfolio demonstrating applications of predictive analytics, time-series forecasting, and machine learning to real-world business problems.*
